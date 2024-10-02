@@ -19,4 +19,7 @@
 
 ## Interview Review
 1. [네이버랩스 전화인터뷰 후기](https://leechangyo.github.io/daily/2021/01/14/%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0/)
-2. [LG CNS 데이터분석과제](https://dun1211.tistory.com/33)
+
+## Coding Test
+1. [LG CNS 데이터분석과제](https://dun1211.tistory.com/33)
+2. [삼성 SW 역량테스트](https://kimjingo.tistory.com/205)
