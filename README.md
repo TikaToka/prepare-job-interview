@@ -24,3 +24,4 @@
 ## Coding Test
 1. [LG CNS 데이터분석과제](https://dun1211.tistory.com/33)
 2. [삼성 SW 역량테스트](https://kimjingo.tistory.com/205)
+3. [SQL 벼락치기](https://sungpaks.github.io/programmers-sql-solutions/)
